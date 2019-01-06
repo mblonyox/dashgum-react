@@ -5,6 +5,12 @@
   "main": "main.js",
   "dependencies": {
     "react": "^16.7.0",
+    "react-bootstrap": "^0.32.4"
+  },
+  "peerDependencies": {
+    "bootstrap": "^3.4.0"
+  },
+  "devDependencies": {
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.3"
   },
